@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=github,js,html,css,r,python,cpp,mysql,arduino,raspberrypi,vscode,git,linux,latex,md,windows,mint,ubuntu,debian,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,js,html,css,r,python,cpp,mysql,arduino,raspberrypi)](https://skillicons.dev)
 
 
 <!--
@@ -58,3 +58,6 @@ I’m working on exciting projects that involve:
 
 😅 I’m open to receiving guidance on anything I’m currently exploring and learning! ! 😅
 I seek to learn from others who contribute to my knowledge.
+
+[![My Skills](https://skillicons.dev/icons?i=,vscode,git,linux,latex,md,windows,mint,ubuntu,debian,gcp)](https://skillicons.dev)
+
