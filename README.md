@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-## 🔭 :octocat: About Me 🔭 
+## 🔭 :octocat: About Me 🔭 :octocat:
 
 I’m an enthusiastic learner passionate about technology, constantly exploring the fields of:
 
@@ -30,7 +30,7 @@ I’m an enthusiastic learner passionate about technology, constantly exploring 
 * ⚡ Electronics
 * 🤖 Automation & IoT with Arduino and Raspberry Pi
 
-🛠️ Skills & Interests
+## 🛠️ Skills & Interests
 
 I’m currently learning:
 
@@ -49,7 +49,7 @@ Additionally, I’m interested in:
 * Natural Language Processing
 * Computer Vision
 
-⚙️ Projects
+## ⚙️ Projects
 
 I like working on exciting projects that involve:
 
@@ -58,7 +58,7 @@ I like working on exciting projects that involve:
 * Analyzing and visualizing data to uncover insights
 * Building and experimenting with electronic circuits
 
-📘 Current Goals
+## 📘 Current Goals
 
 * Deepening my knowledge in software development and engineering concepts
 * Expanding my skills in data analysis and statistical modeling
