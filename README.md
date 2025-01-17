@@ -24,24 +24,31 @@ Here are some ideas to get you started:
 
 I’m an enthusiastic learner passionate about technology, constantly exploring the fields of:
 
-* Software Development
-* Data Analysis
-* Telecommunications
-* Electronics
-* Automation with Arduino and Raspberry Pi
+* 💻 Software Development
+* 📊 Data Analysis
+* 📡 Telecommunications
+* ⚡ Electronics
+* 🤖 Automation & IoT with Arduino and Raspberry Pi
 
-💻 Programming Skills
+🛠️ Skills & Interests
 
-I’m currently learning coding and problem-solving with:
+I’m currently learning:
 
 * Python
 * R
 * C++
+* Html
 * JavaScript
+* SQL
 
-⚙️ Projects & Interests
+Additionally, I’m interested in:
 
-I’m working on exciting projects that involve:
+* Web Development
+* Open-Source Contributions
+
+⚙️ Projects
+
+I like working on exciting projects that involve:
 
 * Developing software applications and tools
 * Automating tasks using microcontrollers (Arduino, Raspberry Pi)
@@ -52,7 +59,7 @@ I’m working on exciting projects that involve:
 
 * Deepening my knowledge in software development and engineering concepts
 * Expanding my skills in data analysis and statistical modeling
-* Exploring IoT and real-world applications of automation
+* Dive deeper into IoT, smart devices, and automation
 
 
 
