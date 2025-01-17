@@ -34,6 +34,7 @@ I’m currently learning coding and problem-solving with:
 * Python
 * R
 * C++
+* JavaScript
 
 ⚙️ Projects & Interests
 
