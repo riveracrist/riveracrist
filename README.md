@@ -1,4 +1,4 @@
-## 👋 Welcome to my GitHub! Hi there. Welcome to my GitHub! 👋
+## 👋 Hi there, Welcome to my GitHub! 👋
 
 [![My Skills](https://skillicons.dev/icons?i=github,js,html,css,r,python,cpp,mysql,arduino,raspberrypi)](https://skillicons.dev)
 
