@@ -8,7 +8,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white )]()
 [![GitHub](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)]()
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,r,python,cpp,mysql,arduino,raspberrypi,vscode,linux,latex,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,r,python,cpp,mysql,arduino,raspberrypi,vscode,linux,latex,md,windows,mint,ubuntu)](https://skillicons.dev)
 
 
 <!--
