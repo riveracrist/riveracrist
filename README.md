@@ -65,4 +65,4 @@ I’m working on exciting projects that involve:
 
 
 😅 I’m open to receiving guidance on anything I’m currently exploring and learning! ! 😅
-I seek to learn from others who contribute to my learning
+I seek to learn from others who contribute to my knowledge.
