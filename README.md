@@ -51,5 +51,6 @@ I’m working on exciting projects that involve:
 * Exploring IoT and real-world applications of automation
 
 
-😅 I’d appreciate help with anything I’m currently working on learning! 😅
 
+😅 I’m open to receiving guidance on anything I’m currently exploring and learning! ! 😅
+I seek to learn from others who contribute to my learning
