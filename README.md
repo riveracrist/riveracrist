@@ -1,4 +1,4 @@
-## 👋 Hi there, Welcome to my GitHub! 👋
+# 👋 Hi there, Welcome to my GitHub! 👋
 
 [![My Skills](https://skillicons.dev/icons?i=github,js,html,css,r,python,cpp,mysql,arduino,raspberrypi)](https://skillicons.dev)
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-🔭 :octocat: About Me 🔭 
+## 🔭 :octocat: About Me 🔭 
 
 I’m an enthusiastic learner passionate about technology, constantly exploring the fields of:
 
