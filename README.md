@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 👋 Welcome to my GitHub!
 
 🌟 About Me
+
 I’m an enthusiastic learner passionate about technology, constantly exploring the fields of:
 
 Software Development
