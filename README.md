@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
+
 <!--
 **riveracrist/riveracrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
