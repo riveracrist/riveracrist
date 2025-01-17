@@ -6,7 +6,7 @@
 
 [![Wire](https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white)]()
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white )]()
-[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)]()
 
 
 
