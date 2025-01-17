@@ -28,12 +28,14 @@ Electronics
 Automation with Arduino and Raspberry Pi
 
 💻 Programming Skills
+
 I’m currently learning coding and problem-solving with:
 
 Python
 R
 
 ⚙️ Projects & Interests
+
 I’m working on exciting projects that involve:
 
 Developing software applications and tools
@@ -42,6 +44,7 @@ Analyzing and visualizing data to uncover insights
 Building and experimenting with electronic circuits
 
 📘 Current Goals
+
 Deepening my knowledge in software development and engineering concepts
 Expanding my skills in data analysis and statistical modeling
 Exploring IoT and real-world applications of automation
