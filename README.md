@@ -45,6 +45,9 @@ Additionally, I’m interested in:
 
 * Web Development
 * Open-Source Contributions
+* Machine Learning
+* Natural Language Processing
+* Computer Vision
 
 ⚙️ Projects
 
