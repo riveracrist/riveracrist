@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-🌟 About Me
+🔭 :octocat: About Me 🔭 
 
 I’m an enthusiastic learner passionate about technology, constantly exploring the fields of:
 
