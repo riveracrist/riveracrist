@@ -3,7 +3,7 @@
 
 # 🔭 :octocat: About Me 🔭 :octocat:
 
-I am a Telecommunications Engineering student and software development apprentice. 
+I am a Telecommunications Engineering student and Software Development apprentice. 
 I have been learning programming languages such as R and Python as I would like to apply them in data analysis to create predictive models and data-driven applications.
 
 I also have an interest in IoT devices, machine learning, cloud computing ...
