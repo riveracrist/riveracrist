@@ -1,24 +1,15 @@
 # 👋 Hi there, Welcome to my GitHub! 👋
 
+
+# 🔭 :octocat: About Me 🔭 :octocat:
+
+I am a Telecommunications Engineering student and software development apprentice. 
+I have been learning programming languages such as R and Python as I would like to apply them in data analysis to create predictive models and data-driven applications. I also have an interest in IoT devices, machine learning, cloud computing.
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,linux,latex,md,windows,mint,ubuntu,debian,gcp)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=github,js,html,css,r,python,cpp,mysql,arduino,raspberrypi)](https://skillicons.dev)
 
-
-<!--
-**riveracrist/riveracrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+<!---
 
 ## 🔭 :octocat: About Me 🔭 :octocat:
 
@@ -69,5 +60,7 @@ I like working on exciting projects that involve:
 😅 I’m open to receiving guidance on anything I’m currently exploring and learning! ! 😅
 I seek to learn from others who contribute to my knowledge.
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,linux,latex,md,windows,mint,ubuntu,debian,gcp)](https://skillicons.dev)
+-->
+
+
 
