@@ -9,8 +9,8 @@ I have been learning programming languages such as R and Python as I would like 
 I also have an interest in IoT devices, machine learning, cloud computing ...
 
 
-[![My Skills](https://skillicons.dev/icons?i=github,r,python,cpp,mysql,arduino,raspberrypi,js,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,linux,latex,md,windows,mint,ubuntu,debian,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,r,python,cpp,mysql,arduino,raspberrypi,js,html,css,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,linux,latex,md,windows,mint,ubuntu,debian,gcp,docker)](https://skillicons.dev)
 
 <!---
 
